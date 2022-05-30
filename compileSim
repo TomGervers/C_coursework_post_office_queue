@@ -1,0 +1,2 @@
+gcc -ansi -c simQ.c -o simQ.o
+gcc simQ.o -lgsl -lgslcblas -o simQ

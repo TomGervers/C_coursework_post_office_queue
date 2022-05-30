@@ -1,0 +1,6 @@
+maxQueueLength 20,
+numServicePoints 3,
+closingTime 100,
+averageServeTime 6,
+averageCustomersPerInterval 2,
+averageTolerance 10,
